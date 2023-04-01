@@ -22,6 +22,15 @@ Here are some ideas to get you started:
 - 💻 I’m currently learning programming and doing web development.
 - 👯 I’m looking to collaborate on open source.
 
+## Feel free to reach out on: 
+<hr>
+
+[<img align="left" alt="saurabh-purohit-ba190794 | LinkedIn" width="22px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-linkedin-94.png" />](https://www.linkedin.com/in/saurabh-purohit-ba190794)
+
+[<img align="left" alt="saurabhprht@gmail.com" width="22px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-gmail-logo-94.png" />](mailto:saurabhprht@gmail.com)
+
+<br />
+
 ## Languages and Tools:  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" /></a> <a>&nbsp; &nbsp;</a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" /></a> <a>&nbsp; &nbsp;</a>
@@ -37,7 +46,7 @@ Here are some ideas to get you started:
 
 <br/>  
 
-<!-- ## Feel free to reach out on: 
+## Feel free to reach out on: 
 <hr>
 
 [<img align="left" alt="saurabh-purohit-ba190794 | LinkedIn" width="22px" src="![icons8-linkedin-48](https://user-images.githubusercontent.com/99115169/229297026-9ee14db7-6ab2-46fc-a289-6ec321a5c241.png)" />](https://www.linkedin.com/in/saurabh-purohit-ba190794)
@@ -45,9 +54,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="saurabhprht@gmail.com" width="22px" src="![icons8-gmail-48](https://user-images.githubusercontent.com/99115169/229299360-6cd7eadb-c285-4c32-b599-3ba6e0637ab9.png)" />](mailto:saurabhprht@gmail.com)
 
 <br />
-
-## GitHub Stats
-<hr> -->
 
 ## Github Stats
 <table><tr><td valign="top" width="100%">
