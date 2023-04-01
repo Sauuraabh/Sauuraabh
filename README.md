@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💻 I’m a full-stack developer. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 - 👯 I’m looking to collaborate on open source.
 
-<br><br><br><br>
+<br>
 
 ## Feel free to reach out on: 
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="saurabhprht@gmail.com" width="50px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-gmail-logo-94.png" />](mailto:saurabhprht@gmail.com)
 
-<br><br><br><br>
+<br>
 
 ## Languages and Tools:  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" /></a> <a>&nbsp; &nbsp;</a>
@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-mongodb.svg" alt="MongoDB" height="45" /></a>
 <div align="center">    
 </div>  
-
-<br/>  
+<br>  
 
 ## Github Stats
 <table><tr><td valign="top" width="100%">
