@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 
 - 💻 I’m a full-stack developer. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 - 👯 I’m looking to collaborate on open source.
-
 <br>
-
 ## Feel free to reach out on: 
 
 [<img align="left" alt="saurabh-purohit-ba190794 | LinkedIn" width="50px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-linkedin-94.png" />](https://www.linkedin.com/in/saurabh-purohit-ba190794)
@@ -41,9 +39,7 @@ Here are some ideas to get you started:
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45" /></a> <a> &nbsp; &nbsp; </a>
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/node-js.svg" alt="Node.js" height="45" /></a> <a> &nbsp; &nbsp;</a>
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-express-js.svg" alt="Express.js" height="45" /></a> <a> &nbsp; &nbsp; </a>
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-mongodb.svg" alt="MongoDB" height="45" /></a>
-<div align="center">    
-</div>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-mongodb.svg" alt="MongoDB" height="45" /></a>  
 <br>  
 
 ## Github Stats
