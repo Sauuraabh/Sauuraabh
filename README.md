@@ -34,12 +34,10 @@ Here are some ideas to get you started:
 <img alt="Contribution Metrics" src="https://metrics.lecoq.io/Aditya-Sharma-Dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
 
 ## Languages and Tools:  
-<h3 style="color:red"> JAVA | HTML CSS | JAVASCRIPT | TYPESCRIPT | MERN STACK </h3>
-
+<h3> JAVA </h3>
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" /></a>
-
+<h3> HTML CSS </h3>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" /></a> 
-
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a>
 
 <div align="center">  
