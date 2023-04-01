@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 <img src="https://github.com/Sauuraabh/Sauuraabh/blob/master/Mern-Banner.jpg" align="center" style="width: 100%" />
 </div>  
 
-### Hi there 👋
-<h1>Saurabh Purohit</h1> here
-
+<h1>SAURABH PUROHIT</h1>
+### Hi there 👋  
 - 💻 I’m a full-stack developer. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge          backend support.
 - 👯 I’m looking to collaborate on open source.
 - ⚡ Fun fact: I am a mechanical engineer by heart and full stack developer by skills. 
