@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://github.com/Sauuraabh/Sauuraabh/blob/master/Full-Stack-Development.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/Sauuraabh/Sauuraabh/blob/master/Mern-Banner.jpg" align="center" style="width: 100%" />
 </div>  
 
 ### Hi there 👋
