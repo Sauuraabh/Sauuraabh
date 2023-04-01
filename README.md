@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img alt="Contribution Metrics" src="https://metrics.lecoq.io/Aditya-Sharma-Dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
 
 ## Languages and Tools:  
-<h2 style="color:red"> JAVA | JAVASCRIPT | MERN STACK </h2>
+<h3 style="color:red"> JAVA | HTML CSS | JAVASCRIPT | TYPESCRIPT | MERN STACK </h3>
 <hr>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
