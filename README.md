@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 ### Saurabh Purohit here
 
-- 💻 I’m a full-stack developer. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+- 💻 I’m a full-stack developer. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge          backend support.
 - 👯 I’m looking to collaborate on open source.
 - ⚡ Fun fact: I am a mechanical engineer by heart and full stack developer by skills. 
 
