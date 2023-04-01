@@ -42,8 +42,5 @@ Here are some ideas to get you started:
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-express-js.svg" alt="Express.js" height="45" /></a> <a> &nbsp; &nbsp; </a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-mongodb.svg" alt="MongoDB" height="45" /></a>  
 <br>  
-## Github Stats:
-
-</td></tr></table><summary>🔨 GitHub Contributions</summary>
-<img alt="Contribution Metrics" src="https://metrics.lecoq.io/Sauuraabh?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
-<br/>  
+<!-- ## Github Stats:
+ -->
