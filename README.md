@@ -23,10 +23,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source.
 
 <br>
+
 ## Feel free to reach out on: 
-
 [<img align="left" alt="saurabh-purohit-ba190794 | LinkedIn" width="50px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-linkedin-94.png" />](https://www.linkedin.com/in/saurabh-purohit-ba190794)
-
 [<img align="left" alt="saurabhprht@gmail.com" width="50px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-gmail-logo-94.png" />](mailto:saurabhprht@gmail.com)
 
 <br><br>
