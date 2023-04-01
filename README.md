@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source.
 
 <br>
-
 ## Feel free to reach out on: 
 
 [<img align="left" alt="saurabh-purohit-ba190794 | LinkedIn" width="50px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-linkedin-94.png" />](https://www.linkedin.com/in/saurabh-purohit-ba190794)
@@ -43,7 +42,6 @@ Here are some ideas to get you started:
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-express-js.svg" alt="Express.js" height="45" /></a> <a> &nbsp; &nbsp; </a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-mongodb.svg" alt="MongoDB" height="45" /></a>  
 <br>  
-
 ## Github Stats
 <table><tr><td valign="top" width="100%">
 <img src="https://github-readme-stats.vercel.app/api?username=sauuraabh&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
