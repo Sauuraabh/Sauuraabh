@@ -49,9 +49,6 @@ Here are some ideas to get you started:
 |-|-|
 <img alt="Aditya's GitHub Graph1" src="https://raw.githubusercontent.com/Aditya-Sharma-Dev/Aditya-Sharma-Dev/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
 
-
-<table><tr><td valign="top" width="100%">
-<img src="https://github-readme-stats.vercel.app/api?username=sauuraabh&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
 </td></tr></table><summary>🔨 GitHub Contributions</summary>
 <img alt="Contribution Metrics" src="https://metrics.lecoq.io/Aditya-Sharma-Dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
 <br/>  
