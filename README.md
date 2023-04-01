@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<img src="https://github.com/shashi495-debug/shashi495-debug/blob/main/java.jpg" align="center" style="width: 100%" />
+</div>  
+
 ### Hi there 👋
 ### Saurabh Purohit here
 
