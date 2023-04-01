@@ -57,6 +57,6 @@ Here are some ideas to get you started:
 
 <summary>💻 GitHub Profile Stats</summary>
 
-|![GitHub PR's]<img src="https://github-readme-stats.vercel.app/api?username=sauuraabh&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /> |![Branches - Network Graph]<img alt="Contribution Metrics" src="https://metrics.lecoq.io/Aditya-Sharma-Dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
+|![GitHub PR's]<img src="https://github-readme-stats.vercel.app/api?username=sauuraabh&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" /> |![Branches - Network Graph]<img alt="Contribution Metrics" src="https://metrics.lecoq.io/Aditya-Sharma-Dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
 
 
