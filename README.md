@@ -43,19 +43,7 @@ Here are some ideas to get you started:
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-mongodb.svg" alt="MongoDB" height="45" /></a>  
 <br>  
 
-<summary>🔨 GitHub Contributions</summary>
-<img alt="Contribution Metrics" src="https://metrics.lecoq.io/Aditya-Sharma-Dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
-
-## Github Stats  
-<table><tr><td valign="top" width="100%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sauuraabh&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-<summary>💻 GitHub Profile Stats</summary>
+<h2>💻 GitHub Contrucution:</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=sauuraabh&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 50%" /><img alt="Contribution Metrics" src="https://metrics.lecoq.io/Aditya-Sharma-Dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
 
