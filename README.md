@@ -57,6 +57,6 @@ Here are some ideas to get you started:
 
 <summary>💻 GitHub Profile Stats</summary>
 
-|![GitHub PR's](https://github-readme-stats.vercel.app/api?username=Aditya-Sharma-Dev&show_icons=true&theme=dark&include_all_commits=true)| ![Branches - Network Graph](https://raw.githubusercontent.com/Aditya-Sharma-Dev/Aditya-Sharma-Dev/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+|![GitHub PR's]() |![Branches - Network Graph]()
 
 
