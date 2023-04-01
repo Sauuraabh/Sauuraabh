@@ -1,5 +1,8 @@
 ### Hi there 👋
 ### Saurabh Purohit here
+
+- 💻 I’m currently learning programming and doing web development.
+- 👯 I’m looking to collaborate on open source.
 <!--
 **Sauuraabh/Sauuraabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
