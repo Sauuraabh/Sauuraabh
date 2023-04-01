@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=sauuraabh&show_icons=true&theme=dark&include_all_commits=true" align="right" style="width: 40%" /><img alt="Contribution Metrics" src="https://metrics.lecoq.io/Aditya-Sharma-Dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
 
-[<img align="left" alt="https://github.com/Sauuraabh/Sauuraabh" width="100%" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/sauuraabh_stats.svg" />](https://github.com/Sauuraabh/Sauuraabh)
+[<img align="left" alt="https://github.com/Sauuraabh/Sauuraabh" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sauuraabh&theme=apprentice" />](https://github.com/Sauuraabh/Sauuraabh)
