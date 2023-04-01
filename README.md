@@ -18,21 +18,6 @@ Here are some ideas to get you started:
 - 💻 I’m currently learning programming and doing web development.
 - 👯 I’m looking to collaborate on open source.
 
-<!-- ## Feel free to reach out on: 
-<hr>
-
-[<img align="left" alt="saurabh-purohit-ba190794 | LinkedIn" width="22px" src="![icons8-linkedin-48](https://user-images.githubusercontent.com/99115169/229297026-9ee14db7-6ab2-46fc-a289-6ec321a5c241.png)" />](https://www.linkedin.com/in/saurabh-purohit-ba190794)
-
-[<img align="left" alt="saurabhprht@gmail.com" width="22px" src="![icons8-gmail-48](https://user-images.githubusercontent.com/99115169/229299360-6cd7eadb-c285-4c32-b599-3ba6e0637ab9.png)" />](mailto:saurabhprht@gmail.com)
-
-<br />
-
-## GitHub Stats
-<hr> -->
-
-<summary>🔨 GitHub Contributions</summary>
-<img alt="Contribution Metrics" src="https://metrics.lecoq.io/Aditya-Sharma-Dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
-
 ## Languages and Tools:  
 <h3> JAVA </h3>
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" /></a>
@@ -49,3 +34,19 @@ Here are some ideas to get you started:
 </div>  
 
 <br/>  
+
+<!-- ## Feel free to reach out on: 
+<hr>
+
+[<img align="left" alt="saurabh-purohit-ba190794 | LinkedIn" width="22px" src="![icons8-linkedin-48](https://user-images.githubusercontent.com/99115169/229297026-9ee14db7-6ab2-46fc-a289-6ec321a5c241.png)" />](https://www.linkedin.com/in/saurabh-purohit-ba190794)
+
+[<img align="left" alt="saurabhprht@gmail.com" width="22px" src="![icons8-gmail-48](https://user-images.githubusercontent.com/99115169/229299360-6cd7eadb-c285-4c32-b599-3ba6e0637ab9.png)" />](mailto:saurabhprht@gmail.com)
+
+<br />
+
+## GitHub Stats
+<hr> -->
+
+<summary>🔨 GitHub Contributions</summary>
+<img alt="Contribution Metrics" src="https://metrics.lecoq.io/Aditya-Sharma-Dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
+
