@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </div>  
 
 <h1>SAURABH PUROHIT</h1>
-### Hi there 👋  
+<h2>Hi there 👋 </h2> 
 
 - 💻 I’m a full-stack developer. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge          backend support.
 - 👯 I’m looking to collaborate on open source.
