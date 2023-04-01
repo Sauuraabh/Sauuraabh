@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 ## Feel free to reach out on: 
 <hr>
 
-[<img align="left" alt="saurabh-purohit-ba190794 | LinkedIn" width="22px" src="![icons8-linkedin-48](https://user-images.githubusercontent.com/99115169/229297026-9ee14db7-6ab2-46fc-a289-6ec321a5c241.png)
-" />](https://www.linkedin.com/in/saurabh-purohit-ba190794)
+[<img align="left" alt="saurabh-purohit-ba190794 | LinkedIn" width="22px" src="![icons8-linkedin-48](https://user-images.githubusercontent.com/99115169/229297026-9ee14db7-6ab2-46fc-a289-6ec321a5c241.png)"/>](https://www.linkedin.com/in/saurabh-purohit-ba190794)
 
 [<img align="left" alt="saurabhprht@gmail.com" width="22px" src="images/gmail.png" />](mailto:saurabhprht@gmail.com)
 
