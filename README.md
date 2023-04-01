@@ -23,13 +23,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source.
 
 ## Feel free to reach out on: 
-<hr>
 
 [<img align="left" alt="saurabh-purohit-ba190794 | LinkedIn" width="50px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-linkedin-94.png" />](https://www.linkedin.com/in/saurabh-purohit-ba190794)
 
 [<img align="left" alt="saurabhprht@gmail.com" width="50px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-gmail-logo-94.png" />](mailto:saurabhprht@gmail.com)
 
-<br><br>
+<br><br><br><br>
 
 ## Languages and Tools:  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" /></a> <a>&nbsp; &nbsp;</a>
