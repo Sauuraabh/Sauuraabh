@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💻 I’m currently learning programming and doing web development.
 - 👯 I’m looking to collaborate on open source.
 
-## Feel free to reach out on: 
+<!-- ## Feel free to reach out on: 
 <hr>
 
 [<img align="left" alt="saurabh-purohit-ba190794 | LinkedIn" width="22px" src="![icons8-linkedin-48](https://user-images.githubusercontent.com/99115169/229297026-9ee14db7-6ab2-46fc-a289-6ec321a5c241.png)" />](https://www.linkedin.com/in/saurabh-purohit-ba190794)
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br />
 
 ## GitHub Stats
-<hr>
+<hr> -->
 
 <summary>🔨 GitHub Contributions</summary>
 <img alt="Contribution Metrics" src="https://metrics.lecoq.io/Aditya-Sharma-Dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
