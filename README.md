@@ -41,7 +41,15 @@ Here are some ideas to get you started:
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-express-js.svg" alt="Express.js" height="45" /></a> <a> &nbsp; &nbsp; </a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-mongodb.svg" alt="MongoDB" height="45" /></a>  
 <br>  
-## Github Stats
+## Github Stats:
+
+<summary>💻 GitHub Profile Stats</summary>
+
+|![GitHub PR's](https://github-readme-stats.vercel.app/api?username=Aditya-Sharma-Dev&show_icons=true&theme=dark&include_all_commits=true)| ![Branches - Network Graph](https://raw.githubusercontent.com/Aditya-Sharma-Dev/Aditya-Sharma-Dev/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+|-|-|
+<img alt="Aditya's GitHub Graph1" src="https://raw.githubusercontent.com/Aditya-Sharma-Dev/Aditya-Sharma-Dev/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+
+
 <table><tr><td valign="top" width="100%">
 <img src="https://github-readme-stats.vercel.app/api?username=sauuraabh&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" />
 </td></tr></table><summary>🔨 GitHub Contributions</summary>
