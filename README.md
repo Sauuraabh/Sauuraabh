@@ -44,12 +44,6 @@ Here are some ideas to get you started:
 <br>  
 ## Github Stats:
 
-<summary>💻 GitHub Profile Stats</summary>
-
-|![GitHub PR's](https://github-readme-stats.vercel.app/api?username=sauuraabh&show_icons=true&theme=dark&include_all_commits=true)| ![Branches - Network Graph](https://raw.githubusercontent.com/Aditya-Sharma-Dev/Aditya-Sharma-Dev/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
-|-|-|
-<img alt="Saurabh's GitHub Graph1" src="(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sauuraabh&theme=2077)" />
-
 </td></tr></table><summary>🔨 GitHub Contributions</summary>
-<img alt="Contribution Metrics" src="https://metrics.lecoq.io/Aditya-Sharma-Dev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
+<img alt="Contribution Metrics" src="https://metrics.lecoq.io/Sauuraabh?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&notable=1&isocalendar.duration=half-year&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta"/>
 <br/>  
