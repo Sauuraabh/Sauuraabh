@@ -35,14 +35,22 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="45" /></a> <a>&nbsp; &nbsp;</a>
+
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" /></a> <a>&nbsp; &nbsp;</a>
+
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a> <a> &nbsp; &nbsp; </a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="45" /></a> <a> &nbsp; &nbsp;</a>
+
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" /></a> <a> &nbsp; &nbsp; </a>
+
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45" /></a> <a> &nbsp; &nbsp; </a>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/node-js.svg" alt="Node.js" height="45" /></a> <a> &nbsp; &nbsp;</a>
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-express-js.svg" alt="Express.js" height="45" /></a> <a> &nbsp; &nbsp; </a>
+
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-mongodb.svg" alt="MongoDB" height="45" /></a>  
+
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/icons8-express-js.svg" alt="Express.js" height="45" /></a> <a> &nbsp; &nbsp; </a>
+
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="45" /></a> <a> &nbsp; &nbsp;</a>
+
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/Sauuraabh/Sauuraabh/blob/master/node-js.svg" alt="Node.js" height="45" /></a> <a> &nbsp; &nbsp;</a>
 <br>  
 <hr>
 <h2>Languages Used:</h2>
